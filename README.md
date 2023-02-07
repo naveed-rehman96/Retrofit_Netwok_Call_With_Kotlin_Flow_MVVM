@@ -2,11 +2,12 @@
 
 This is a sample in which we are using
 
-Retrofit
+Retrofit(For Api Calling)
 <br>MVVM
-Koin<br>
+Dependency Injection (Koin)<br>
 Kotlin Flow<br>
 Kotlin State Flow<br>
 Interceptor<br>
-Chuker Interceptor
+Chuker Interceptor<br>
+Sealed Classes
 
